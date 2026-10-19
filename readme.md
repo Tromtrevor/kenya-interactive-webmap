@@ -36,8 +36,8 @@ _Data sources and attribution will be documented here._
 Clone the repository:
 
 ```bash
-git clone https://github.com/Tromtrevor/kenya-interactive-atlas.git
-cd kenya-interactive-atlas
+git clone https://github.com/Tromtrevor/kenya-interactive-webmap.git
+cd kenya-interactive-webmap
 ```
 
 Navigate to the frontend and install dependencies:
